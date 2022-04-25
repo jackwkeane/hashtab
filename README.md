@@ -1,3 +1,6 @@
+# Project Grade: 100.0/100.0
+All programs were written and optimized for X86-64 machines with gcc module 7.10
+
 # hashtab-jackwkeane
 hashtab-jackwkeane created by GitHub Classroom
 
