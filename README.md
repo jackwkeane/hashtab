@@ -1,5 +1,8 @@
 # Project Grade: 100.0/100.0
-All programs were written and optimized for X86-64 machines with gcc module 7.10
+Completed Spring of 2022 as a part of Lehigh University's CSE 202: Computer Organization and Architecture.
+
+## Note:
+All programs were written and optimized for X86-64 machines with gcc module 7.10.
 
 # hashtab-jackwkeane
 hashtab-jackwkeane created by GitHub Classroom
