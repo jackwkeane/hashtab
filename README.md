@@ -1,5 +1,5 @@
 # Project Grade: 100.0/100.0
-Completed Spring of 2022 as a part of Lehigh University's CSE 202: Computer Organization and Architecture.
+Completed fall of 2021 as a part of Lehigh University's CSE 109: System Software.
 
 ## Note:
 All programs were written and optimized for X86-64 machines with gcc module 7.10.
