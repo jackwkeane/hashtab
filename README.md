@@ -50,32 +50,3 @@ During development, you may find it beneficial to work with a smaller INITIALBUC
 
 Use the hashTab.c and hashTab_funcs.h files, without modification, as your top-level/main file and program-specific-function header file, respectively. You can copy the ~merle/109/prog2/hashTab_init2buckets and ~merle/109/prog2/hashTab_init100buckets executables to your prog2 directory to compare their output and return code against your program’s output and return code. These files were created by setting INITIALBUCKETS value in global_defs.h to 2 and 100, respectively, compiling, and then renaming the hashTab executable appropriately.
 
-Place information at the top of any file you create. Change the first comment to match the file.
-
-/*
- * hashTab Supporting Functions
- * Program 2 assignment
- * CSE109 Fall 2021
- * student ID (e.g., idk321): 
- * student Last name: 
- * student First name: 
- * gitHub ID: 
- */
-
-When compiling to prepare for linking, use the following arguments to gcc.
-
--g -c -Wall -Wextra -Wwrite-strings
-
-When compiling to link, use the following argument to gcc.
-
--g
-
-Check for memory leaks by running the valgrind tool as follows.
-
-valgrind --leak-check=yes hashTab <set of valid arguments>
-
-Push your changes to GitHub regularly… or else! You must submit makefile, hashTab_funcs.c, syscalls.h, and syscalls.c
-
-Work independently. Do not share code or look at each other’s code. Discussing concepts/approaches is acceptable.
-
-Post any questions/comments on Piazza. Enjoy!
